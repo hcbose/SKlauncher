@@ -1,7 +1,7 @@
-lang.name=繁體中文
-lang.code=zh_TW
+lang.name=தமிழ்
+lang.code=ta_in
 
-general.issues=舉報問題
+general.issues=தவர்கழ்
 general.support=在 Patreon 上支持我們
 general.discord=加入我們的 Discord
 general.notready=此功能還未完成！
@@ -117,10 +117,10 @@ versions.type.pending=測試版
 versions.type.snapshot=先行版
 versions.type.historical=早期版本
 versions.type.old_beta=Beta 舊版
-versions.type.old_alpha=Alpha 舊版
+versions.type.old_alpha=Alpha பழய Alpha
 versions.type.custom=自定義版
-versions.version.latest=最新
-versions.version.latestalt=最新版
+versions.version.latest=புதிய
+versions.version.latestalt=புதிய
 versions.version.latest-release=最新正式版
 versions.version.latest-snapshot=最新先行版
 
